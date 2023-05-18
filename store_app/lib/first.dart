@@ -5,6 +5,6 @@ class FirstPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return  Container(child: Text('tgttv'),);
+    return  Center(child: Text('tgttv'),);
   }
 }
